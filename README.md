@@ -1,7 +1,8 @@
 # SoraKernel
 An offline cross-platform virtual machine
 
-----
+-----------
+
 该项目的终极目标是做一套类似于伪春菜的虚拟人格框架  
 此仓库存储该框架的核心组件——一个离线虚拟机，来自以太坊的EVM，经过少许修改  
 
